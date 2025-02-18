@@ -2,8 +2,10 @@
 
 ## 오늘 내가 배운 것들(Today I Learned)
 
-### [2월 2주차] : 데이터 시각화
+### [2월 3주차] : 딥러닝
+2025.02.19(수) 한줄 개념정리: PyTorch부터 딥러닝까지([상세 내역 링크](https://github.com/kaeul1020/2-astra-ka-til/blob/main/2025/Feb/2025-02-19.md)) 
 
+### [2월 2주차] : 데이터 시각닝
 2025.02.12(수) 데이터시각화: pandas, json(api), matplotlib ([상세 내역 링크](https://github.com/kaeul1020/2-astra-ka-til/blob/main/2025/Feb/2025-02-12.md))
 
 2025.02.10(월) 데이터 시각화 개념 한줄 정리 ([상세 내역 링크](https://github.com/kaeul1020/2-astra-ka-til/blob/main/2025/Feb/2025-02-10.md))
